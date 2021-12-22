@@ -1,4 +1,4 @@
-# Logo and Arts
+# Logo und Artwork
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lase-peco/art/master/1x/LASE%20PeCo%20Logo.png" alt="LASE PeCo Systemtechnik GmbH Logo" />
